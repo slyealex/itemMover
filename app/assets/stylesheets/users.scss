@@ -1,3 +1,66 @@
 // Place all the styles related to the users controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+html {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.title {
+  height: 100px;
+  width: 100%;
+  background-color: rgb(141, 215, 201);
+}
+
+.chat {
+  height: 100px;
+  width: 300px;
+  background-color: rgb(141, 215, 201);
+}
+
+.mainContent {
+  height: 200px;
+  width: 500px;
+  background-color: rgb(141, 215, 201);
+}
+
+.friendBox {
+  height: 100px;
+  width: 100px;
+  background-color: rgb(141, 215, 201);
+}
+
+.footer {
+  height: 100px;
+  width: 100%;
+  background-color: rgb(141, 215, 201);
+}
+
+.main-header {
+  height: 50px;
+  width: 100%;
+  margin: 0 0 0 0;
+  padding: 10px 0 5px 5px;
+  color: white;
+  font-size: 25px;
+  font-family: helvetica;
+  background-color: rgb(136, 135, 201);
+}
+
+nav {
+  background-color: rgb(109, 164, 179);
+  margin: 0 0 25px 0;
+}
+
+nav ul {
+  margin: 0;
+}
+
+nav a {
+  display: inline;
+  text-decoration: none;
+}
