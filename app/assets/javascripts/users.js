@@ -7,10 +7,7 @@
 $(document).on('ready', function() {
 
   $('#dragBox').draggable({disabled: true});
-  $('#dragBox').draggable({disabled: true});
-  $('#dragBox').draggable({disabled: true});
-  $('#dragBox').draggable({disabled: true});
-  $('#dragBox').draggable({disabled: true});
+
 
 
   $('#dragOn').on('click', function() {
